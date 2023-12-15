@@ -4,7 +4,7 @@
 
 <img align="right" alt="CodingZakariyaZouazou" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedAbirou&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedAbirou" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedAbirou&label=Profile%20views&color=brightgreen&style=plastic" alt="MohamedAbirou" /> </p>
 
 - 🤝 I’m looking for help with **AWS**
 
