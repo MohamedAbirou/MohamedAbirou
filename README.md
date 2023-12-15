@@ -55,11 +55,11 @@
 
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedAbirou&show_icons=true&locale=en&layout=compact&theme=radical" alt="MohamedAbirou" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedAbirou&show_icons=true&locale=en&layout=compact&theme=radical" alt="MohamedAbirou" /></p>
 
-<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=MohamedAbirou&show_icons=true&locale=en&theme=radical" alt="MohamedAbirou" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=MohamedAbirou&show_icons=true&locale=en&theme=radical" alt="MohamedAbirou" /></p>
 
-<p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAbirou&theme=radical" alt="MohamedAbirou" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAbirou&theme=radical" alt="MohamedAbirou" /></p>
 
 
 
