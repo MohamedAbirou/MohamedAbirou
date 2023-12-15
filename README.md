@@ -14,12 +14,17 @@
 
 - 📄 Know about me [I'm a 21 years old moroccan full-stack web developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.]
 
-<h3 align="left">Connect with me:</h3>
+<br />
+
+## Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamed-abirou-34ba39241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mohamed-abirou-920b93258" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">🧰 Languages and Tools:</h3>
+<br />
+
+## 🧰 Languages and Tools:
+<br />
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 30px;">
  <img  alt="Next" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
  <img  alt="Django" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
@@ -44,7 +49,11 @@
  <img  alt="PostgreSQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 </div>
 
+<br />
+
 ---
+
+<br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedAbirou&show_icons=true&locale=en&layout=compact" alt="MohamedAbirou" /></p>
 
