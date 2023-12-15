@@ -2,14 +2,24 @@
 
 **`Full-stack web develop (NextJS/Django)`**
 
-I'm a 21 years old moroccan full-stack web developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
+<img align="right" alt="CodingZakariyaZouazou" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"/>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedAbirou&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedAbirou" /> </p>
 
-## 🧰 Languages and Tools
+- 🤝 I’m looking for help with **AWS**
 
-<br />
+- 💬 Ask me about **Next.js , Django**
 
+- 📫 How to reach me **abiroumohamed58@gmail.com**
+
+- 📄 Know about me [I'm a 21 years old moroccan full-stack web developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.]
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/mohamed-abirou-34ba39241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mohamed-abirou-920b93258" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">🧰 Languages and Tools:</h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 30px;">
  <img  alt="Next" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
  <img  alt="Django" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
@@ -21,7 +31,7 @@ I'm a 21 years old moroccan full-stack web developer building my version of the 
  <img  alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
  <img  alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
  <img  alt="Bootstrap" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
- <img  alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+ <img  alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  <img  alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
  <img  alt="Redux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
  <img  alt="NodeJS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -33,6 +43,14 @@ I'm a 21 years old moroccan full-stack web developer building my version of the 
  <img  alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
  <img  alt="PostgreSQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 </div>
+
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedAbirou&show_icons=true&locale=en&layout=compact" alt="MohamedAbirou" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedAbirou&show_icons=true&locale=en" alt="MohamedAbirou" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAbirou&" alt="MohamedAbirou" /></p>
 
 
 <br />
