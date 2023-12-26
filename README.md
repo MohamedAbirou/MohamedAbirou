@@ -73,8 +73,8 @@
 <br />
 
 <!-- BEGIN PROJECTS-CARDS -->
-### TechZone ⬇️
- [![Home](https://github.com/MohamedAbirou/MohamedAbirou/assets/109366637/68385dae-3763-4acd-9539-1fb4d3636f49)](https://e-commerce-bef46e4.payloadcms.app/)
+### EduPulse ⬇️
+[![EduPulse](https://github.com/MohamedAbirou/MohamedAbirou/assets/109366637/c5692df8-bd8d-490c-9bdb-ad00ad80efdc)](https://edu-pulse-org.vercel.app/)
 <br />
 
 ### Premiumark ⬇️
@@ -89,8 +89,8 @@
 [![Pyros-Inc-TaskYos](https://github.com/Liam-Piro/TaskYos/assets/109366637/f6850d99-ec1a-49be-a35e-2c57bbaf14b8)](https://taskyos.vercel.app/)
 <br />
 
-### ChatterChain ⬇️
-[![ChatterChain](https://github.com/Liam-Piro/ChatterChain/assets/109366637/b3178afc-3e67-432e-983a-f38a8b4df8e1)](https://chatter-chain.vercel.app/)
+### TechZone ⬇️
+ [![Home](https://github.com/MohamedAbirou/MohamedAbirou/assets/109366637/68385dae-3763-4acd-9539-1fb4d3636f49)](https://e-commerce-bef46e4.payloadcms.app/)
 <br />
 
 ### NoteCore ⬇️
