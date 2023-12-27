@@ -1,6 +1,6 @@
 # 🏄‍♂️ Mohamed Abirou
 
-**`Full-stack web develop (NextJS/Django)`**
+**`Full-stack web developer (NextJS/Django)`**
 
 <img align="right" alt="CodingZakariyaZouazou" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"/>
 
