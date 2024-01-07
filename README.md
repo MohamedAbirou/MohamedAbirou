@@ -80,7 +80,7 @@
 <br />
 
 ### Premiumark ⬇️
-[![Premiumark-the-marketplace-for-digital-assets (1)](https://github.com/MohamedAbirou/premiumark/assets/109366637/10a3b43d-8fa8-40c5-9160-ae99a05d3616)](https://premiumark-production.up.railway.app/)
+[![Premiumark](https://github.com/MohamedAbirou/premiumark/assets/109366637/10a3b43d-8fa8-40c5-9160-ae99a05d3616)](https://premiumark-production.up.railway.app/)
 <br />
 
 ### AirBell ⬇️
@@ -88,11 +88,11 @@
 <br />
 
 ### TaskYos ⬇️
-[![Pyros-Inc-TaskYos](https://github.com/Liam-Piro/TaskYos/assets/109366637/f6850d99-ec1a-49be-a35e-2c57bbaf14b8)](https://taskyos.vercel.app/)
+[![TaskYos](https://github.com/Liam-Piro/TaskYos/assets/109366637/f6850d99-ec1a-49be-a35e-2c57bbaf14b8)](https://taskyos.vercel.app/)
 <br />
 
 ### NoteCore ⬇️
-[![NoteCore](https://github.com/Liam-Piro/NoteCore/assets/109366637/15fa0c14-fc31-4062-b496-c985a9191238)](https://note-core.vercel.app/documents)
+[![NoteCore](https://github.com/Liam-Piro/NoteCore/assets/109366637/15fa0c14-fc31-4062-b496-c985a9191238)](https://note-core.vercel.app/)
 <br />
 <!-- END PROJECTS-CARDS -->
 
