@@ -80,7 +80,7 @@
 <br />
 
 ### Premiumark ⬇️
-[![Premiumark](https://github.com/MohamedAbirou/premiumark/assets/109366637/10a3b43d-8fa8-40c5-9160-ae99a05d3616)](https://premiumark-production.up.railway.app/)
+[![Premiumark](https://github.com/MohamedAbirou/premiumark/assets/109366637/10a3b43d-8fa8-40c5-9160-ae99a05d3616)](https://premiumark.onrender.com/)
 <br />
 
 ### AirBell ⬇️
