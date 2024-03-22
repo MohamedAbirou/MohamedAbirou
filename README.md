@@ -1,18 +1,16 @@
 # 🏄‍♂️ Mohamed Abirou
 
-**`Full-stack web developer (NextJS/Django)`**
+**`Front end developer (NextJS)`**
 
 <img align="right" alt="CodingZakariyaZouazou" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedAbirou&label=Profile%20views&color=brightgreen&style=plastic" alt="MohamedAbirou" /> </p>
 
-- 🤝 I’m looking for help with **AWS**
-
-- 💬 Ask me about **Next.js , Django**
+- 💬 Ask me about **Next.js**
 
 - 📫 How to reach me **abiroumohamed58@gmail.com**
 
-- 📄 Know about me [I'm a 21 years old moroccan full-stack web developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.]
+- 📄 Know about me [I'm a 21 years old moroccan front end developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.]
 
 <br />
 
