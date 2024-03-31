@@ -1,6 +1,6 @@
 # 🏄‍♂️ Mohamed Abirou
 
-**`Front end developer (NextJS)`**
+**`Front end developer (NextJS/ReactJS)`**
 
 <img align="right" alt="CodingZakariyaZouazou" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"/>
 
