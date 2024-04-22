@@ -76,10 +76,6 @@
 [![EduPulse](https://github.com/MohamedAbirou/MohamedAbirou/assets/109366637/c5692df8-bd8d-490c-9bdb-ad00ad80efdc)](https://edu-pulse-org.vercel.app/)
 <br />
 
-### Premiumark ⬇️
-[![Premiumark](https://github.com/MohamedAbirou/premiumark/assets/109366637/10a3b43d-8fa8-40c5-9160-ae99a05d3616)](https://premiumark.onrender.com/)
-<br />
-
 ### AirBell ⬇️
 [![AirBell](https://github.com/MohamedAbirou/MohamedAbirou/assets/109366637/7d08ba12-808c-447b-b251-3e3f388ea7be)](https://airbell.vercel.app/)
 <br />
