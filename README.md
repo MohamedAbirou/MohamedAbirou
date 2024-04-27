@@ -77,7 +77,7 @@
 <br />
 
 ### Electronix ⬇️
-[![AirBell](https://github.com/MohamedAbirou/MohamedAbirou/assets/109366637/7d08ba12-808c-447b-b251-3e3f388ea7be)](https://airbell.vercel.app/)
+[![ElectroniX](https://github.com/MohamedAbirou/electonix/assets/109366637/20304dc2-d1ad-4099-8be6-9748a2f518e6)](https://electonix.vercel.app/)
 <br />
 
 ### TaskYos ⬇️
