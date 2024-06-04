@@ -1,6 +1,6 @@
 # 🏄‍♂️ Mohamed Abirou
 
-**`Full Stack web developer (MERN Stack)`**
+**`Full Stack web developer`**
 
 <img align="right" alt="CodingZakariyaZouazou" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"/>
 
