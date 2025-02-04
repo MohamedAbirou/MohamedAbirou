@@ -1,6 +1,6 @@
 # 🏄‍♂️ Mohamed Abirou
 
-**`Full Stack web developer`**
+**`Full Stack developer`**
 
 <img align="right" alt="CodingMohamedAbirou" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"/>
 
