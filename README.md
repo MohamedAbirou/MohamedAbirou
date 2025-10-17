@@ -57,38 +57,7 @@
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAbirou&theme=radical" alt="MohamedAbirou" /></p>
 
-
-
 <br />
-
----
-
-
-## 📺 Latest Projects
-
-<br />
-
-<!-- BEGIN PROJECTS-CARDS -->
-### My Holidays ⬇️
- [![My-Holidays](https://github.com/MohamedAbirou/hotel-booking-app/assets/109366637/3b363b46-ba99-4fda-af9f-565647e45f3f)](https://myholidays.onrender.com/)
-<br />
-
-### EduPulse ⬇️
-[![EduPulse](https://github.com/MohamedAbirou/MohamedAbirou/assets/109366637/c5692df8-bd8d-490c-9bdb-ad00ad80efdc)](https://edu-pulse-org.vercel.app/)
-<br />
-
-### Electronix ⬇️
-[![ElectroniX](https://github.com/MohamedAbirou/electonix/assets/109366637/20304dc2-d1ad-4099-8be6-9748a2f518e6)](https://electonix.vercel.app/)
-<br />
-
-### TaskYos ⬇️
-[![TaskYos](https://github.com/Liam-Piro/TaskYos/assets/109366637/f6850d99-ec1a-49be-a35e-2c57bbaf14b8)](https://taskyos.vercel.app/)
-<br />
-
-### NoteCore ⬇️
-[![NoteCore](https://github.com/Liam-Piro/NoteCore/assets/109366637/15fa0c14-fc31-4062-b496-c985a9191238)](https://note-core.vercel.app/)
-<br />
-<!-- END PROJECTS-CARDS -->
 
 #
 
