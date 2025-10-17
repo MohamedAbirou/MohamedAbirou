@@ -51,11 +51,3 @@
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=MohamedAbirou&show_icons=true&locale=en&theme=radical" alt="MohamedAbirou" /></p>
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAbirou&theme=radical" alt="MohamedAbirou" /></p>
-
-<br />
-
-#
-
-<details>
- <summary><h3>👨‍💻 Mohamed's Coding Journey</h3></summary>
-   In 2020, after graduating from high school, I embarked on a coding journey. My initial fascination was with Python, but I quickly realized the importance of a strong foundation in algorithms for effective problem-solving and code comprehension. As I delved deeper, I found myself drawn towards web development, starting with the basics - HTML, CSS, and JavaScript, which form the structure, design, and functionality of a website, respectively. Once I had a solid understanding of these core languages, I moved on to learn various frameworks and libraries like React.js, Next.js, Vue.js, Typescript, TailwindCSS, and Node.js and its web framework express.js for the back end side. For Database management, I learned MySQL, MongoDB and PostgreSQL, which allowed me to handle data storage and management effectively. Alongside, I familiarized myself with Figma for designing website templates and the Agile methodology for effective project management. Throughout this journey, I honed my problem-solving techniques and communication skills, including emotional intelligence, which are crucial in the tech industry. Eventually, I decided to specialize in Vuejs/Laravel, leading me to become a full stack web developer. Now, in my final year of my bachelor’s degree, I find myself at a crossroads. I’ve learned so much, yet there’s still so much more to explore. It’s time to get uncomfortable again, to challenge myself and fulfill the dream I had when I started - to build something of my own. And so, the journey continues…
