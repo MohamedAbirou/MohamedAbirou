@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **abiroumohamed58@gmail.com**
 
-- 📄 Know about me [I'm a 23 years old moroccan full stack web developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.]
+- 📄 Know about me [I'm a 24 years old moroccan full stack web developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.]
 
 <br />
 
